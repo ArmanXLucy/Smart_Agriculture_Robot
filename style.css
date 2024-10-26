@@ -71,7 +71,7 @@ nav a:hover {
 
 /* Hero Section with Background Image */
 #home {
-    background-image: url('./home_image.jpg');
+/*     background-image: url('./home_image.jpg'); */
     background-size: cover;
     background-position: center;
     padding: 150px 20px;
